@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "enabled": true,
+  "mode": "client",
+  "connect": "",
+  "listen": "",
+  "topics": []
+}
